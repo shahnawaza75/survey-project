@@ -2,8 +2,8 @@
 
 :root {
   --color-white: #f3f3f3;
-  --color-darkblue: #1b1b32;
-  --color-darkblue-alpha: rgba(27, 27, 50, 0.8);
+  --color-darkblue: #141469;
+  --color-darkblue-alpha: rgba(30, 160, 69, 0.8);
   --color-green: #37af65;
 }
 
@@ -37,7 +37,7 @@ body::before {
       rgba(58, 58, 158, 0.8),
       rgba(136, 136, 206, 0.7)
     ),
-    url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg);
+    url(img.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
